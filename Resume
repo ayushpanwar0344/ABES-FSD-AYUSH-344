@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>RESUME</h1>
+    <b>Nmae:</b>Ayush Panwar <img src="" align="left"><br>
+    <b>Father's Name:</b>Vipin Kumar<br>
+    <b>Mother's Name:</b>Sapna Panwar<br>
+    <b>Date of Birth:</b>29/11/2005<br>
+    <b>Email:</b>ayushpanwar0344@gmail.com<br>
+    <b>Mobile No.:</b>8745967927<br>
+    <br><br><br>
+    <h1>Academic Qualification</h1>
+    <table align="center" border="1" width="20" cellpadding="10" cellspacing="0">
+        <th color="light brown">S. No.</th>
+        <th color="light brown">Class</th>
+        <th color="light brown">Board/University</th>
+        <th color="light brown">Marks</th>
+        <tr color="light yellow">
+            <td>1</td>
+            <td>10th</td>
+            <th color="light brown">Division</th>
+            <td>CBSE</td>
+            <td>93%</td>
+            <td>1st</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>12th</td>
+            <td>CBSE</td>
+            <td>90%</td>
+            <td>1st</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>B.Tech</td>
+            <td>AKTU</td>
+            <td>8.3 CGPA</td>
+            <td>1st</td>
+        </tr>
+    
+    </table>
+    <br><br><br>
+    <b>Area of Interest:</b>To learn full stack development.<br>
+    <b>Hobbies:</b>Playing Cricket, Listening Music.<br>
+    <b>Disclaimer:</b>This is my first full stack web page.<br>
+    
+    
+</body>
+</html>
