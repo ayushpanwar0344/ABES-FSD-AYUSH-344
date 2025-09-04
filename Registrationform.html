@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="lightblue">
+    <h1 align="center">Student Registration Form</h1>
+    <form>
+        <table border="0" cellpadding="6" cellspacing="0" align="center">
+            <tr>
+                <td>Full Name:</td>
+                <td><input type="text" name="fullname" required></td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td><input type="email" name="email" required></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" name="password" required></td>
+            </tr>
+            <tr>
+                <td>Confirm Password:</td>
+                <td><input type="password" name="confirm"></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    <input type="radio" name="gender" value="male"> Male
+                    <input type="radio" name="gender" value="female"> Female
+                </td>
+            </tr>
+            <tr>
+                <td>Hobbies:</td>
+                <td>
+                    <input type="checkbox" name="hobby" value="reading">Reading
+                    <input type="checkbox" name="hobby" value="traveling">Traveling
+                    <input type="checkbox" name="hobby" value="gaming">Gaming
+                    <input type="checkbox" name="hobby" value="sports">Sports
+                </td>
+            </tr>
+            <tr>
+                <td>Course:</td>
+                <td>
+                    <select name="course">
+                        <option>BCA</option>
+                        <option>B.Tech</option>
+                        <option>MCA</option>
+                        <option>M.Tech</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Address:</td>
+                <td><textarea name="address" rows="4" cols="30"></textarea></td>
+            </tr>
+
+        </table>
+    </form>
+</body>
+</html>
